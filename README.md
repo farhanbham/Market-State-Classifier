@@ -1,4 +1,4 @@
 # Predicting Market States Using LSTM on Macroeconomic Indicators
 
-Important: Removed Due to Live Trading, code update soon
+**IMPORTANT**: Removed due to live trading, code update soon
 
